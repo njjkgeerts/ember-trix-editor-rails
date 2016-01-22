@@ -39,32 +39,3 @@ actions: {
   }
 }
 ```
-
-## Contributing to Trix
-This is the first time [Channing Allen](https://twitter.com/ChanningAllen) and [Lynne Tye](https://twitter.com/lynnetye)
-have contributed to an open-source project! We welcome others to send bug reports,
-make pull requests, or give us feedback.
-
-Special thanks to [Courtland Allen](https://twitter.com/csallen) for his help.
-
-### Installation
-
-* `git clone` this repo
-* `npm install`
-* `bower install`
-
-### Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
