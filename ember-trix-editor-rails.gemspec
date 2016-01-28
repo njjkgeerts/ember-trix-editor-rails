@@ -19,6 +19,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "ember-rails"
   spec.add_dependency "ember-source"
+  spec.add_dependency "trix"
 
   spec.add_development_dependency "bundler", ">= 1.3"
   spec.add_development_dependency "rake"
